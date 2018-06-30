@@ -1,5 +1,3 @@
-# ofo_gov_bi
-
 # 开发环境搭建
 - 安装PyCharm
 
