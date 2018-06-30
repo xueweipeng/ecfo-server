@@ -1,5 +1,3 @@
-# ofo_gov_bi(未完成)
-
 # 服务器环境搭建
 - 阿里云ECS CentOS release 6.8 (Final)
 - 程序安装目录 /data/app
@@ -22,7 +20,7 @@
 
 ## 安装配置nginx
 - yum install nginx
-- 拷贝bi的nginx.cfg 并配置
+- 配置 nginx
 - 启动nginx： nginx
 
 ## 运行
