@@ -15,7 +15,7 @@
 - cat ~/.ssh/id_rsa.pub
 - 通过web登录，个人设置，配置ssh key
 - cd /data/app 进入程序目录
-- git clone git@ofordcode.ofo.so:bi/ofo_gov_bi.git
+- git clone git@yourproject.git
 
 ## 安装必须的依赖库(主要切换至venv)
 - pip install -r requirements.txt
